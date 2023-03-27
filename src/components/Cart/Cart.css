@@ -1,0 +1,37 @@
+.cart-title {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    color: #1C2B35;
+    text-align: center;
+}
+
+.grand-total {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 25px;
+    letter-spacing: 0.0015em;
+    color: #0E161A;
+}
+
+.cart-summary{
+    margin-left: 23px;
+}
+
+.btn-clear-cart{
+    background-color: #FF3030;
+    color: white;
+    margin: 0 16px;
+    width: 88%;
+    margin-bottom: 16px;
+}
+.btn-review-order{
+    background-color: orange;
+    color: white;
+    margin: 0 16px;
+    width: 88%;
+}
