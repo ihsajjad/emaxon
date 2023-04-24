@@ -17,3 +17,7 @@ nav.header a {
 nav.header a:hover {
     color: orange;
 }
+
+.btn-log-out{
+    margin: 0 20px;
+}
